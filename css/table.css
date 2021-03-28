@@ -1,0 +1,24 @@
+table tbody tr:nth-child(even) {
+        background-color: #FFAE5A ;
+        color: #FFAE5A ;
+    }
+
+    table tbody tr:nth-child(odd) {
+        background-color: #FF7900;
+        color: #FF7900 ;
+    }
+	 table {
+     width: 100%
+	    border-collapse: collapse;
+	 }
+	 table, th{
+	    text-align: center;
+	 }
+	 th {
+	    text-align: center;
+	 }
+	 td {
+	    color:white;
+	    font-family: verdana;
+	    font-size: 20px;
+}
